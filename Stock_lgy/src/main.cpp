@@ -4,6 +4,7 @@
 const int STKS = 4;
 int main()
 {
+
     using std::cout;
     Stock stocks[STKS] = {
         Stock("NanoSmart", 12, 20.0),
@@ -21,7 +22,7 @@ int main()
     int & c = a;
     int & b = c;
 
-    cout << "Stock holdings:\n";
+
     int st;
     for (st = 0; st < STKS; st++)
         stocks[st].show();

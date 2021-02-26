@@ -1,0 +1,24 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/home/lgz/catkin_dev/devel/include/**",
+        "/home/lgz/catkin_costmap/devel/include/**",
+        "/opt/ros/melodic/include/**",
+        "/home/lgz/catkin_costmap/src/costmap_2d/include/**",
+        "/home/lgz/catkin_costmap/src/costmap_study/include/**",
+        "/home/lgz/catkin_dev/src/dynamic_object_visualization/include/**",
+        "/home/lgz/catkin_dev/src/multi_object_tracker/include/**",
+        "/home/lgz/catkin_costmap/src/pointcloud_to_laserscan/include/**",
+        "/home/lgz/catkin_costmap/src/ray_ground_filter/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS"
+    }
+  ],
+  "version": 4
+}
