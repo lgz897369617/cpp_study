@@ -4,7 +4,6 @@
 const int STKS = 4;
 int main()
 {
-
     using std::cout;
     Stock stocks[STKS] = {
         Stock("NanoSmart", 12, 20.0),
